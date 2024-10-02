@@ -35,7 +35,7 @@
             <img src="https://github-readme-stats.vercel.app/api?username=ABazshoushtari&theme=dracula&show_icons=true&count_private=true&hide_border=true"/>
         </td>
         <td>
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ABazshoushtari&layout=compact&hide_border=true&theme=dracula&langs_count=9"/>
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ABazshoushtari&layout=compact&hide_border=true&theme=dracula&langs_count=8"/>
         </td>
     </tr>
 </table>
