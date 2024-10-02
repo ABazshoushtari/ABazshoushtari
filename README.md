@@ -24,7 +24,7 @@
 
 ## Programming Languages, Technologies and Tools 
 <p align="center"> 
-<a href="https://github.com/ABazshoushtari" target="_blank" rel="noreferrer"> <img src="https://go-skill-icons.vercel.app/api/icons?i=py,go,java,c,pytorch,pandas,sklearn,numpy,seaborn,matplotlib,fastapi,docker,kubernetes,mysql,redis,rabbitmq,linux,git,jupyter,anaconda&perline=18" /> </a>
+<a href="https://github.com/ABazshoushtari" target="_blank" rel="noreferrer"> <img src="https://go-skill-icons.vercel.app/api/icons?i=py,go,java,c,pytorch,pandas,sklearn,numpy,seaborn,matplotlib,fastapi,docker,kubernetes,mysql,redis,rabbitmq,linux,git,jupyter,anaconda&perline=10" /> </a>
 </p>
 
 ## Github Stats:
