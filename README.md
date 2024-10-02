@@ -14,7 +14,7 @@
 
 💻 I have developed a range of projects spanning AI and software engineering, with a current focus on building generative models for anomaly detection in musculoskeletal radiographic (X-ray) images.
 
-🔬 **Research Interests:**
+🔬 **Interests:**
   - Computer Vision
   - Machine Learning and Deep Learning (Theory and Applications)
   - AI in Healthcare
