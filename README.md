@@ -16,6 +16,7 @@
 
 🔬 **Interests:**
   - Computer Vision
+  - Generative AI
   - Machine Learning and Deep Learning (Theory and Applications)
   - AI in Healthcare
   - Cloud Computing
