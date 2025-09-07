@@ -12,9 +12,16 @@
 
 🎓 B.Sc. Degree in Computer Engineering at Amirkabir University of Technology (Tehran Polytechnic).
 
-💡 Skilled in developing machine learning models, cloud-based applications, and scalable systems, with a strong foundation in AI, deep learning, data analysis, and software development, as well as experience in applying advanced algorithms to real-world problems.
+🔬 My undergraduate thesis: **Anomaly Detection in Images using Generative Models (with a focus on GANs)**.
 
-💻 I have developed a range of projects spanning AI and software engineering, with a current focus on building generative models for anomaly detection in musculoskeletal radiographic (X-ray) images.
+💡 Skilled in developing machine learning models, cloud-based applications, and scalable systems, with a strong foundation in AI, deep learning, data analysis, and software development.
+
+⚡ What I work on:  
+- Building ML/DL models for real-world applications  
+- Cloud-based and scalable systems  
+- Data analysis & predictive modeling
+- Designing and developing reliable software systems 
+- Applying AI within software engineering projects for practical impact
 
 🔬 **Interests:**
   - Computer Vision
