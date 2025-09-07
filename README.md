@@ -8,7 +8,7 @@
 
 ## About Me
 
-👨‍💻 Currently a MASc Student in Computer Engineering at the University of British Columbia (UBC), focusing on Machine Learning
+👨‍💻 Currently pursuing an MASc in Computer Engineering at the University of British Columbia (UBC), focusing on Machine Learning.
 
 🎓 B.Sc. Degree in Computer Engineering at Amirkabir University of Technology (Tehran Polytechnic).
 
