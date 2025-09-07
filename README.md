@@ -2,13 +2,15 @@
 
 <div align="center">
     
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=B.Sc+of+Computer+Engineering;Amirkabir+University+of+Technology)](https://github.com/ABazshoushtari)
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=MASc+of+Computer+Engineering;University+of+British+Columbia)](https://github.com/ABazshoushtari)
 
 </div>
 
 ## About Me
 
-🎓 B.Sc in Computer Engineering at Amirkabir University of Technology (Tehran Polytechnic).
+👨‍💻 Currently a MASc Student in Computer Engineering at the University of British Columbia (UBC), focusing on Machine Learning
+
+🎓 B.Sc. Degree in Computer Engineering at Amirkabir University of Technology (Tehran Polytechnic).
 
 💡 Skilled in developing machine learning models, cloud-based applications, and scalable systems, with a strong foundation in AI, deep learning, data analysis, and software development, as well as experience in applying advanced algorithms to real-world problems.
 
@@ -18,7 +20,6 @@
   - Computer Vision
   - Generative AI
   - Machine Learning and Deep Learning (Theory and Applications)
-  - AI in Healthcare
   - Cloud Computing
   - Distributed Systems
   - Software Engineering
