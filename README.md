@@ -8,7 +8,7 @@
 
 ## About Me
 
-👨‍💻 Currently pursuing an MASc in Computer Engineering at the University of British Columbia (UBC), focusing on Machine Learning.
+👨‍💻 Currently pursuing an MASc in Computer Engineering at the University of British Columbia (UBC), working as a Research Assistant focusing on Machine Learning, Generative AI, and Federated Leearning.
 
 🎓 B.Sc. Degree in Computer Engineering at Amirkabir University of Technology (Tehran Polytechnic).
 
@@ -25,6 +25,7 @@
 
 🔬 **Interests:**
   - Computer Vision
+  - Large Language Models (LLMs)
   - Generative AI
   - Machine Learning and Deep Learning (Theory and Applications)
   - Cloud Computing
